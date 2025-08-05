@@ -104,4 +104,4 @@ DATABASES = {
 ![alt text](<Screenshot 2025-08-05 204227.png>) ![alt text](<Screenshot 2025-08-05 204320.png>)
 
 ## License
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [MIT License](./LICENSE)."# blog_project" 
